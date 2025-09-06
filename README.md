@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Goldencat Chatroom
 
 A real-time one to one chat web application built using Java 17, MySQL, Spring Boot, Spring Security, WebSocket, and Thymeleaf. This application allows users to chat with other users is a seperate environment, featuring a modern tech stack with a responsive user interface.
@@ -80,4 +81,6 @@ Contributions are welcome! Feel free to open an issue or submit a pull request t
 - **Privacy Controls**: Block or restrict messages from others.
 - **Message Encryption**: Ensure secure chats with encrypted storage and transmission.
 - **Media Sharing**: Share images and files effortlessly in chats.  
+=======
+>>>>>>> e01b9edb8efa8212c59b94b75257ef7786b5921d
 
