@@ -1,6 +1,6 @@
 # Online Chat Application in Java
 
-A real-time one-to-one chat web application built using **Java 17, MySQL, Spring Boot, Spring Security, WebSocket, and Thymeleaf**.  
+A real-time one-to-one chat web application built using **Java 17, MySQL, Spring Boot, Spring Security, WebSocket, and Thymeleaf**.   
 This application allows users to chat with others in a secure environment, featuring a modern tech stack with a responsive user interface.  
 
 Developed by **Venkatesh Pamudurti**.
